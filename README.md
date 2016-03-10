@@ -1,4 +1,8 @@
-# Installation
+# ng-tooltip
+
+A light directive to create tooltip in Angular
+
+## Installation
 
 ### Bower
 Install the package with: `bower install ng-tooltip` then add the files to your index.html
