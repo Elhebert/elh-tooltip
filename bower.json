@@ -1,5 +1,5 @@
 {
-  "name": "ng-tooltip",
+  "name": "elh-tooltip",
   "authors": [
     "Dieter Stinglhamber <elhebert@hotmail.be>"
   ],
@@ -7,7 +7,7 @@
   "main": "tooltip.js",
   "repository": {
 	  "type": "git",
-	  "url": "git@github.com:Elhebert/ng-tooltip.git"
+	  "url": "git@github.com:Elhebert/elh-tooltip.git"
   },
   "moduleType": [],
   "keywords": [

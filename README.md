@@ -5,30 +5,36 @@ A light directive to create tooltip in Angular
 ## Installation
 
 ### Bower
-Install the package with: `bower install ng-tooltip` then add the files to your index.html
+Install the package with: `bower install elh-tooltip` then add the files to your index.html
 ```
 <link rel="stylesheet" href="./bower_components/tooltip.css">
 
-<script src="./bower_components/ng-tooltip/tooltip.js">
+<script src="./bower_components/elh-tooltip/tooltip.js">
 ```
 
 ### npm:
-Install the package with: `npm install ng-tooltip` then add the files to your index.html
+Install the package with: `npm install elh-tooltip` then add the files to your index.html
 ```
-<link rel="stylesheet" href="./node_modules/tooltip.css">
+<link rel="stylesheet" href="./node_modules/elh-tootip/tooltip.css">
 
-<script src="./nodes_modules/ng-tooltip/tooltip.js">
+<script src="./nodes_modules/elh-tooltip/tooltip.js">
 ```
 
 ### Manually:
-Clone the repository with `git clone https://github.com/Elhebert/ng-tooltip.git` then add the files to your index.html
+Clone the repository with `git clone https://github.com/Elhebert/elh-tooltip.git` then add the files to your index.html
 ```
-<link rel="stylesheet" href="/path/to/tooltip.css">
+<link rel="stylesheet" href="/path/to/elh-tooltip/tooltip.css">
 
-<script src="/path/to/ng-tooltip/tooltip.js">
+<script src="/path/to/elh-tooltip/tooltip.js">
 ```
 
-# Customisation
+## Usage
+
+```
+<element tooltip=""MyTooltip"></element>
+```
+
+## Customisation
 
 ### Design
 Add the following rules to your scss/sass/css file:
